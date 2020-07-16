@@ -199,6 +199,12 @@ a:hover{
 	.container{
 		grid-gap: 5rem;
 	}
+	.img-human {
+		width: 30%;
+		height: 50%;
+		margin-top: 15rem;
+		margin-left: 5rem;
+	}
 }
 
 @media screen and (max-width: 1000px){
@@ -231,5 +237,11 @@ a:hover{
 
 	.login-content{
 		justify-content: center;
+	}
+	.img-human {
+		width: 25%;
+		height: 40%;
+		margin-top: 20rem;
+		margin-left: 5rem;
 	}
 }
